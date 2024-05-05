@@ -259,8 +259,6 @@ drop table [테이블명];
     email: varchar(255)  
     birth: date
 
-## 5. 구현
-
 <hr>
 
 # 정규화
